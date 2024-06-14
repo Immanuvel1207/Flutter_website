@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Responsive Portfolio Website & App - Flutter 
 ## check out the portfolio [here](https://responsive-portfolio-flutter.herokuapp.com/)
 
@@ -12,3 +13,6 @@
 - Poppins [link](https://fonts.google.com/specimen/Poppins)
 
 
+=======
+# Flutter_website
+>>>>>>> 6ebba372d71ab1de726970aa79b2938966e832e6
